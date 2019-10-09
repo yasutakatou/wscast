@@ -1,3 +1,6 @@
+
+![wscast](https://github.com/yasutakatou/wscast/blob/pictu/capture2.gif)
+
 #### ざっくりした動かしかた
 
 golangでbuildしたバイナリを動かしてください。<br>
